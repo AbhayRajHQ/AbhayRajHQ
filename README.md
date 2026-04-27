@@ -23,7 +23,7 @@ I am a student passionate about building digital solutions and exploring the wor
 - **X (Twitter):** [AbhayRajHQ](https://x.com/AbhayRajHQ)
 - **LinkedIn:** [AbhayRajHQ](https://linkedin.com/in/AbhayRajHQ)
 - **Instagram:** [@AbhayRajHQ](https://instagram.com/AbhayRajHQ)
-- **Email:** [AbhayRajHQ@gmail.com](mailto:AbhayRajHQ@gmail.com)
+- **Email:** [abhayrajhq@gmail.com](mailto:abhayrajhq@gmail.com)
 
 ---
 
