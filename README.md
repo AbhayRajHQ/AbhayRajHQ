@@ -6,7 +6,7 @@ I am a student passionate about building digital solutions and exploring the wor
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages:** C, C++, HTML5, CSS3, JavaScript
+- **Languages:** Python, C, C++, HTML5, CSS3, JavaScript
 - **Platforms:** Replit, GitHub, VS Code
 - **Branding:** Premium Minimalist Design & Digital Identity
 
